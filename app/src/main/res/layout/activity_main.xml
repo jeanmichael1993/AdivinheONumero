@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:background="#222"
         android:textColor="#fff"
-        android:text="Verificar"
+        android:text="Verificar Numero"
         android:onClick="verificar"/>
 
 
